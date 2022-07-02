@@ -1,0 +1,7 @@
+page\objects\LoginPage.class
+page\objects\DesktopPageObj.class
+page\objects\LaptopNoteBookPageObj.class
+utilities\Util.class
+core\Base.class
+page\objects\RetailPageObj.class
+page\objects\HomePageObj.class
